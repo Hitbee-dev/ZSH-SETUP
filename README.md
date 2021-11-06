@@ -1,0 +1,2 @@
+# ZSH-SETUP
+ZSH 설정
